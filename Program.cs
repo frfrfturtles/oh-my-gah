@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 using System.Media;
-using System.Windows.Forms;
-using System.IO;
 
 namespace oh_my_gah
 {
